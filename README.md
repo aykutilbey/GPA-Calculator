@@ -86,7 +86,7 @@ Turkish university letter grade system:
 
 ## 🌐 Live Demo
 
-[View Live Demo](url eklenecek)
+[View Live Demo](https://gpa-cal.streamlit.app/)
 
 ## 📸 Screenshots
 
@@ -99,7 +99,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👤 Author
 
-Your Name - [@aykutilbey](https://github.com/aykutilbey)
+Aykut İlbey Yürek - [@aykutilbey](https://github.com/aykutilbey)
 
 ## 🙏 Acknowledgments
 
